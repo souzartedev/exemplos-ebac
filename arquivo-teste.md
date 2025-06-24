@@ -1,0 +1,1 @@
+## Arquivo criado dentro do VSCode como Markdown.
